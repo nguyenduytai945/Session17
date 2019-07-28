@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="_custom-phone-validation:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/_custom_phone_validation_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="_custom-phone-validation/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="_custom-phone-validation" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
